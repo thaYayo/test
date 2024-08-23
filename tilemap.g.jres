@@ -40,6 +40,31 @@
         ],
         "displayName": "level2"
     },
+    "level3": {
+        "id": "level3",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDBjMGMwYzBjMGMwYzBjMGMwYzBjMGMwYzBjMGMwYzBjMGMwYzBkMGQwZDBkMGQwZDBkMGQwZDBkMGQwZDBkMGMwYzEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMGQwYzBjMGQwMTAyMDIwMjAyMDIwMjAyMDIwMjAzMGIwZDBjMGMwZDA4MDkwOTA5MDkwOTA5MDkwOTA5MDQwYjBkMGQwYzBkMDgwOTA5MDkwOTA5MDkwOTA5MDkwNDBiMGEwZDBjMGQwODA5MDkwOTA5MDkwOTA5MDkwOTA0MGIwZDBjMGMwZDA4MDkwOTA5MDkwOTA5MDkwOTA5MDQwYjBkMGMwYzBkMDgwOTA5MDkwOTA5MDkwOTA5MDkwNDBiMGQwYzBjMGQwODA5MDkwOTA5MDkwOTA5MDkwOTA0MGIwZDBjMGMwZDA4MDkwOTA5MDkwOTA5MDkwOTA5MDQwZTBkMGMwYzBkMDgwOTA5MDkwOTA5MDkwOTA5MDkwNDBlMGQwYzBjMGQwNzA2MDYwNjA2MDYwNjA2MDYwNjA1MGUwZDBjMGMwZDBkMGUwZTBlMGUwZTBlMGUwZTBlMGUwZjBkMGMwYzBkMGQwZDBkMGQwYTBhMGEwYTBhMGEwZDBkMGQwYzBjMGMwYzBjMGMwYzBjMGMwYzBjMGMwYzBjMGMwYzBjMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath5",
+            "sprites.swamp.swampTile1",
+            "sprites.builtin.forestTiles20",
+            "sprites.builtin.forestTiles4",
+            "sprites.swamp.swampTile2",
+            "sprites.builtin.forestTiles12",
+            "sprites.builtin.forestTiles19",
+            "sprites.builtin.forestTiles21"
+        ],
+        "displayName": "level"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
